@@ -1,7 +1,7 @@
 # Libraries in UW 
 ![](https://www.sequoyah.com/includes/class.timthumb.php?src=/portfoliov2-files/secondary-54f5eae4ade58.jpg&zc=2&w=650&h=450)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **There are a lot of libraries at UW, some of them are more famous than others. Some libraries like the** and *Suzallo* **libary is known for its Harry Potter Like features. But there are also other libraries around campus that make it worth the time to discover and look at.**  [This website](https://www.lib.washington.edu/) **hosts all information related to all of UW's libraries! The image below is one of the Undergraduate library on campus** ![images](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DXc3ooBXdIMxmNOOC2spaWyAeWI2n3_33A&s), or any other element you think would be helpful for your audience to understand the topic.
+A short description / abstract of the topic you choose. For the text here and below, feel free to use **There are a lot of libraries at UW, some of them are more famous than others. Some libraries like the** and *Suzallo* **libary is known for its Harry Potter Like features. But there are also other libraries around campus that make it worth the time to discover and look at.**  [This website](https://www.lib.washington.edu/) **hosts all information related to all of UW's libraries! The image below is one of the Undergraduate library on campus** ![images](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DXc3ooBXdIMxmNOOC2spaWyAeWI2n3_33A&s)
 
 
 ## Suzzallo Library 
